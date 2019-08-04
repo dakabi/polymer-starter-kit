@@ -36,7 +36,7 @@ class MyApp extends PolymerElement {
     return html`
       <style>
         :host {
-          --app-primary-color: #795548;
+          --app-primary-color: #D81B60;
           --app-secondary-color: black;
 
           display: block;
